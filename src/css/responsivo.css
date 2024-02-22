@@ -7,6 +7,8 @@
     }
     .cabecalho .menu li a{
         padding: 15px;
+        font-size: 12px;
+        display: inline-block;
     }
     .apresentacao .informacoes{
         padding: 30px;
@@ -29,7 +31,7 @@
         
     }
     .curriculo .certificados-recebidos li img{
-        width: 50%;
+        width: 300px;
     }
     body{
         background-color: #1666ce;
