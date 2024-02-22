@@ -15,24 +15,46 @@
         max-width: 100px;
     }
     .apresentacao .informacoes .titulo{
-        font-size: 40px;
+        font-size: 25px;
     }
-    .curriculo .certificados-recebidos img{
+    .apresentacao .informacoes .texto{
+        font-size: 14px;
+    }
+
+    .curriculo .titulo{
+        font-size: 25px;
+    }
+    .curriculo .certificados-recebidos li img{
         display: inline-block;
-        width: 90px;
+        
     }
-}
+    .curriculo .certificados-recebidos li img{
+        width: 50%;
+    }
+    body{
+        background-color: #1666ce;
+    }
+    }
 @media (max-width: 768px){
     .curriculo{
         padding: 30px;
     }
+
+    .curriculo .titulo{
+        font-size: 25px;
     }
-    .curriculo .informacoes h3{
-        font-size: 35px;
-    }
-    .curriculo .informacoes .linguagem{
-        flex-direction: column;
-    }
+.curriculo .informacoes h3{
+    font-size: 20px;
+}
+.curriculo .informacoes .linguagem{
+    flex-direction: column;
+    
+}
+body{
+    background-color: #1666ce;
+}
+}
+    
    
 
 @media (max-width: 425px){
@@ -40,7 +62,20 @@
     background: linear-gradient(90deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, 0.4) 100%, transparent 65%);
 }
 
+.curriculo .titulo{
+    font-size: 25px;
+}
+
 .curriculo{
     max-width: 80%;
+}
+.curriculo .informacoes h3{
+    font-size: 20px;
+}
+.curriculo .certificados-recebidos li img{
+    width: 50%;
+}
+body{
+    background-color: #1666ce;
 }
 }
