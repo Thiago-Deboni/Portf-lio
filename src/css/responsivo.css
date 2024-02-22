@@ -10,7 +10,7 @@
     }
     .cabecalho .menu li a{
         padding: 15px;
-        font-size: 12px;
+        font-size: 10px;
         text-align: center;
     }
     .apresentacao .informacoes{
@@ -34,7 +34,7 @@
         
     }
     .curriculo .certificados-recebidos li img{
-        width: 300px;
+        width: 260px;
     }
     body{
         background-color: #1666ce;
@@ -52,7 +52,7 @@
     }
     .cabecalho .menu li a{
         padding: 15px;
-        font-size: 12px;
+        font-size: 10px;
         text-align: center;
     }
     .apresentacao .informacoes{
@@ -76,7 +76,7 @@
         
     }
     .curriculo .certificados-recebidos li img{
-        width: 300px;
+        width: 260px;
     }
     body{
         background-color: #1666ce;
@@ -96,7 +96,7 @@
 }
 .cabecalho .menu li a{
     padding: 15px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
 }
 .apresentacao .informacoes{
@@ -120,7 +120,7 @@
     
 }
 .curriculo .certificados-recebidos li img{
-    width: 300px;
+    width: 260px;
 }
 body{
     background-color: #1666ce;
